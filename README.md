@@ -1,4 +1,3 @@
-
 # Analysis-of-Video-Games
 
 ### About the project ###
